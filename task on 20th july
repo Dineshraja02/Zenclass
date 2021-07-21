@@ -9,7 +9,14 @@
            node js is a servver can perform server functions like reading files, database objects,etc,.
            
 2) watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
-        
+          * Start to parse the HTML
+          * Fetch external resources
+          * Parse the CSS and build the CSSOM
+          * Execute the JavaScript
+          * Merge DOM and CSSOM to construct the render tree
+          * Calculate layout and paint  
+          * Then excutes to the client     
+          
 3) To read - https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
         IS it necessary to write <html>, <head> and <body> tags?
            * If the first thing inside the html not a comment then we omit the html start tag.
