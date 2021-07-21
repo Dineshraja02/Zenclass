@@ -6,6 +6,22 @@ Task - July 21, 2021
           { person: "Name 3", age: "8", company: "GUVI geek network" },
         ]
     use the above JSON to iterate over all for loops (for, for in, for of, forEach)
+    var obj = [
+            { person: "Ak", age: "24", company: "GUVI" },
+            { person: "Dezuza", age: "24", company: "GUVI geek" },
+            { person: "Aravinth", age: "24", company: "GUVI geek network" },
+              ]
+                    for(let i=0;i<3;i++){
+                          console.log('name:'+obj[i].person);
+                          console.log('age:'+obj[i].age);
+                          console.log('company:'+obj[i].company);
+                          }
+                    for (const details in obj) {
+                          console.log(obj[details]);
+                          }
+                    for (const detail of obj) {
+                          console.log(detail)  
+                          }
     2)
         var xhr = new XMLHttpRequest();
         xhr.open("GET", "https://restcountries.eu/rest/v2/all");
