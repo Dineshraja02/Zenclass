@@ -1,5 +1,5 @@
 1) List 5 difference between Browser JS(console) v Nodejs
-        1) JS is aclient side coding
+        1) JS is a client side coding
            Node js enables server side coding written in js.
         2) js is a language 
            node js is an environment, it is not alanguage but it has v8 engine that runs js on the server side
