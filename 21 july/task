@@ -9,7 +9,7 @@ Task - July 21, 2021
     var obj = [
             { person: "Ak", age: "24", company: "GUVI" },
             { person: "Dezuza", age: "24", company: "GUVI geek" },
-            { person: "Aravinth", age: "24", company: "GUVI geek network" },
+            { person: "Aravinth", age: "25", company: "GUVI geek network" },
               ]
                     for(let i=0;i<3;i++){
                           console.log('name:'+obj[i].person);
@@ -22,4 +22,9 @@ Task - July 21, 2021
                     for (const detail of obj) {
                           console.log(detail)  
                           }
+                          obj.forEach(function (item) {
+                                console.log(item.person)
+                                console.log(item.age)
+                                console.log(item.company)
+                          })
         
