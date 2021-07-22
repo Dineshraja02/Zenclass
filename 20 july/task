@@ -2,7 +2,7 @@
         1) JS is a client side coding
            Node js enables server side coding written in js.
         2) js is a language 
-           node js is an environment, it is not alanguage but it has v8 engine that runs js on the server side
+           node js is an environment, it is not a language but it has v8 engine that runs js on the server side
         3) js works only inside the browser
            node js works outside the browser
         4) js providing behaviour to the browser
@@ -20,7 +20,7 @@
 3) To read - https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
         IS it necessary to write <html>, <head> and <body> tags?
            * If the first thing inside the html not a comment then we omit the html start tag.
-           * End tag of the htlm can be omit when html element is not immediattly followed by a comment
+           * End tag of the html can be omit when html element is not immediattly followed by a comment
            * In case the first thing inside elemnt is an element  or the element is empty we can omit the head element start tag.
            * head element end tag of html element can be omit when the head element is not immediatly followed by the space or comment.
            * A body element's start tag may be omitted if the element is empty, or if the first thing inside the body element is not a space character or a comment, 
