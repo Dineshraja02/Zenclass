@@ -4,7 +4,7 @@ var techSpec={
             overAllWidth:"1600mm",
             overAllHeight:"1490mm",
             wheelBase:"2360mm",
-            trackWidth:{front:"1405mm",rear:1400},
+            trackWidth:{front:"1405mm",rear:"1400mm"},
             minimumRadius:"4500mm",
       },
       capacities:{seatingCapacity:"5 persons",
