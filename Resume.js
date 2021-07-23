@@ -37,6 +37,6 @@ var techSpec={
             grossVehicleWeight:"1320kg"
       }   
 }
-console.log(techspec.dimension)
-console.log(techspec.Chassis)
-console.log(techspec.capacities)
+console.log(techSpec.dimension)
+console.log(techSpec.Chassis)
+console.log(techSpec.capacities)
